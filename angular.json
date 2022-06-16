@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "whatthefuckisneo": "apps/whatthefuckisneo",
+    "whatthefuckisneo-e2e": "apps/whatthefuckisneo-e2e"
+  }
+}
